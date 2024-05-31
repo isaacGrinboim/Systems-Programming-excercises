@@ -1,0 +1,2 @@
+sushi,rice,3,chili,2,cocain,3
+ramen,rice,20,chili,3,lsd,4

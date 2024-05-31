@@ -1,0 +1,5 @@
+add product shampoo 20 3
+change amount shampoo 2
+add product cheeze 100 3
+add product cheeze 100 4
+ship order cheeze,2--shampoo,2
